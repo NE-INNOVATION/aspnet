@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'aspnet-us-west-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9849D0EF9D014BDA850C81247BF8FD9F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26DCE3A40EBB474FBD27B5CA516A7196 }}
           package: .
